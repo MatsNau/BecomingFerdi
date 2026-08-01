@@ -340,7 +340,7 @@ Der Nutzer wurde um Rückmeldung zu drei Punkten gebeten: Stärke des Torkelns,
 Härte der Kühe, Größe der Figur.
 
 **Dann Personalisierung.** `src/game/story.ts` ist der einzige Ort dafür:
-`VILLAGE` steht aktuell auf dem Platzhalter `"Ferdisheim"`, die `BEATS`-Texte
+`VILLAGE` steht aktuell auf dem Platzhalter `"Pattensen->"`, die `BEATS`-Texte
 sind bewusst neutral. Der Nutzer wurde nach Ferdis Alter, Running Gags,
 Haustier und dem Gericht beim Familienessen gefragt — **die Antworten stehen
 noch aus.** Sobald sie da sind, gehören sie in `story.ts` und in einzelne Props.

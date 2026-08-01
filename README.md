@@ -47,6 +47,21 @@ Am Ende brennt das Küchenlicht. Ferdi geht rein.
 *Es gibt in Akt 1 keinen Game Over. In den Graben fallen kostet nasse Schuhe,
 die Kühe kosten Wegstrecke — mehr nicht.*
 
+
+TODOS Akt 1: 
+Mechanik:
+- Am Anfang nicht zu schnell laufen, sonst übergibt man sich
+- Die Pfütze zum Baggersee den man mit einem Floß überqueren muss
+- Wird man nass ist man bei den Kühen lauter
+- Bei den Kühen gibt es Kuhpfladen in die man nicht treten darf sonst wird es auch schwerer lauter und langsamer
+- (Bonus: Schuhe nicht dreckig sonst gibt es einen Spruch von der Mutter)
+Assets: 
+- Startet IN Zeltdisco, mit "Pursuit of Happines" Faded out, Zeltdisco hat Strahllichter die in den Himmel scheinen
+- Ferdi Asset durch richtiges 3d-Modell austauschen
+- Diyaro mehr wie den echten Diyaro designen mit Logo
+- Bäume und Kühe durch 3D Assets austauschen
+- Das Haus durch das wirklich Haus austauschen
+- REihenfolge sollte sein: Zeltdisco -> Diyaro -> Feld -> Baggersee -> Kuhwiese -> Pattensen
 ### Akt 2 — Der Garten 🔲 *geplant*
 
 Referenziert die Familienlegende, dass Ferdi als Kind einmal vom Balkon

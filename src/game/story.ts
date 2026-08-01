@@ -4,7 +4,7 @@
  */
 
 /** Steht auf dem Ortsschild kurz hinter dem Festplatz. */
-export const VILLAGE = "Ferdisheim";
+export const VILLAGE = "Pattensen ->";
 
 export const TITLE = {
   game: "BECOMING FERDI",
@@ -29,7 +29,7 @@ export const END = {
 export const BEATS: readonly { x: number; text: string; seconds?: number }[] = [
   { x: 0, text: "03:41 Uhr. Die Zeltdisco macht dicht.", seconds: 4.5 },
   { x: 520, text: "Nach Hause sind es zwanzig Minuten. Nüchtern.", seconds: 4.5 },
-  { x: 1560, text: "Beim Dönermann brennt noch Licht.", seconds: 4 },
+  { x: 1560, text: "Bei Diyaro brennt noch Licht.", seconds: 4 },
   { x: 2050, text: "Ab hier ist nur noch Feld.", seconds: 3.5 },
   { x: 3160, text: "Kühe. Natürlich Kühe.", seconds: 3.5 },
   { x: 4460, text: "Kein Muh. Sauber.", seconds: 3.5 },
